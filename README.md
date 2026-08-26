@@ -277,7 +277,7 @@ menu()
 # Controlador - Secuencia de funciones
 # Modelo - Proceso, busco
 
-## Clase 2 juego 
+# Clase 2 juego 
 
 import controlador as ctrl
 
